@@ -1,6 +1,6 @@
 cask "hearthgate" do
-  version "1.4.0"
-  sha256 "913a1d0783edd51f32aa75353317596462e0b4844202ef0c72b8f4fef4996068"
+  version "1.5.1"
+  sha256 "19ea53b8c05a3da67fe35384496e5a7f3073fcb2949374f9e6c1997fa9eeb62f"
 
   url "https://updates.codnamacs.com/HearthGate-#{version}.dmg",
       verified: "updates.codnamacs.com/"
